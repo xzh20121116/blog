@@ -26,7 +26,9 @@
 
 1. [为什么要使用微服务？微服务的优缺点](https://github.com/xzh20121116/blog/issues/5)
 2. [Spring boot 实战配置](https://github.com/xzh20121116/blog/issues/6)
-3. [Intellij idea 导入 web 项目并部署到 tomcat 中<转>](https://github.com/xzh20121116/blog/issues/7)
+3. [Intellij idea 导入 web 项目并部署到 tomcat 中（转）](https://github.com/xzh20121116/blog/issues/7)
+4. [MySQL多表关联查询效率高点还是多次单表查询效率高，为什么？（转）](https://github.com/xzh20121116/blog/issues/8)
+5. [多个单列索引和联合索引区别（转）](https://github.com/xzh20121116/blog/issues/9)
 
 ------
 
