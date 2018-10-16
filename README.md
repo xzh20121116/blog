@@ -26,6 +26,19 @@
 
 1. [为什么要使用微服务？微服务的优缺点](https://github.com/xzh20121116/blog/issues/5)
 2. [Spring boot 实战配置](https://github.com/xzh20121116/blog/issues/6)
+3. [Intellij idea 导入 web 项目并部署到 tomcat 中<转>](https://github.com/xzh20121116/blog/issues/7)
+
+------
+
+## 幕布
+
+1. [阿里巴巴 java 开发手册](https://mubu.com/doc/explore/16333)
+2. [linux 基本命令](https://mubu.com/doc/mY7-GQnYn0)
+3. [mysql 数据库命令](https://mubu.com/doc/cptK0TLk9w)
+4. [并发编程学习笔记](https://mubu.com/doc/t3hQBgYZz0)
+5. [mysql 索引](https://mubu.com/doc/biM-VEGo9w)
+6. [sql 教程、函数](https://mubu.com/doc/7qrA1L5d_g)
+7. [单例模式的集中写法](https://mubu.com/doc/oDNpLPhY90)
 
 ------
 
