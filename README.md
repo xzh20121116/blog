@@ -29,7 +29,7 @@
 3. [Intellij idea 导入 web 项目并部署到 tomcat 中（转）](https://github.com/xzh20121116/blog/issues/7)
 4. [MySQL多表关联查询效率高点还是多次单表查询效率高，为什么？（转）](https://github.com/xzh20121116/blog/issues/8)
 5. [多个单列索引和联合索引区别（转）](https://github.com/xzh20121116/blog/issues/9)
-6. [BufferdReader 源码分析值 readline 方法](https://github.com/xzh20121116/blog/issues/10)
+6. [BufferdReader 源码分析之 readline 方法](https://github.com/xzh20121116/blog/issues/10)
 
 ------
 
