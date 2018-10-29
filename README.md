@@ -1,3 +1,7 @@
+[TOC]
+
+
+
 ## github:
 
 1. [《跟上 Java 8》视频课程源码](https://github.com/biezhi/learn-java8)
@@ -22,7 +26,7 @@
 
 ------
 
-## xzh20121116
+## xzh20121116.github
 
 1. [为什么要使用微服务？微服务的优缺点](https://github.com/xzh20121116/blog/issues/5)
 2. [Spring boot 实战配置](https://github.com/xzh20121116/blog/issues/6)
@@ -42,6 +46,16 @@
 5. [mysql 索引](https://mubu.com/doc/biM-VEGo9w)
 6. [sql 教程、函数](https://mubu.com/doc/7qrA1L5d_g)
 7. [单例模式的集中写法](https://mubu.com/doc/oDNpLPhY90)
+
+------
+
+## 公众号
+
+1. 架构师之路
+
+   > 58 CTO 沈剑
+
+
 
 ------
 
